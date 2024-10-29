@@ -32,7 +32,7 @@ importlib-metadata==6.11.0
 isort==5.13.2
 jsonpatch==1.33
 jsonpointer==2.4
-langchain==0.1.16
+langchain==0.3.0
 langchain-community==0.0.34
 langchain-core==0.1.45
 langchain-text-splitters==0.0.1
